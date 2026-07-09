@@ -47,4 +47,4 @@
 
 ---
 
-*Template by Mohsin Ali — github.com/mohsinali1620/pm-templates*
+*Template by Mohsin Ali — github.com/mohsinalime/pm-templates*
