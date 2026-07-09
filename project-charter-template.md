@@ -124,4 +124,4 @@ What does success look like at the end of this project?
 
 ---
 
-*Template by Mohsin Ali — github.com/mohsinali1620/pm-templates*
+*Template by Mohsin Ali — github.com/mohsinalime/pm-templates*
